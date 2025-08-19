@@ -1,4 +1,4 @@
-This repository contains three projects completed in Python using Google Colab. Each project explores a different dataset and applies various data science techniques, including data cleaning, hypothesis testing, and machine learning model development.
+This repository contains three projects completed in Python using Google Colab. Each project explores a different dataset and applies various data science techniques, including data cleaning, hypothesis testing, and machine learning model development & evaluation.
 
 **PROJECT2**
 
