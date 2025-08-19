@@ -11,6 +11,7 @@ Conducted hypothesis testing to determine whether there were significant differe
 **PROJECT4**
 
 Dataset: Reviews from PlanetTerp, a platform where UMD students share opinions about courses and professors.
+
 What I did:
 - Instead of using student ratings directly, I extracted features from the comment text and expected grade.
 - Built and evaluated multiple machine learning models, including:
@@ -23,6 +24,7 @@ What I did:
 **PROJECT 5**
 
 Dataset: Student attendance records combined with local weather data.
+
 What I did:
 - Built a time-series machine learning model to explore whether weather conditions influence student attendance.
 - Evaluated the relationship between weather variables (e.g., temperature, precipitation) and attendance patterns.
