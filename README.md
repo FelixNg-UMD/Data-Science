@@ -3,6 +3,7 @@ This repository contains three projects completed in Python using Google Colab. 
 **PROJECT2**
 
 Dataset: Survey responses from the 2023 and 2025 classes about their opinions on several questions.
+
 What I did:
 Pulled and cleaned the raw survey data.
 Conducted hypothesis testing to determine whether there were significant differences between the two classes in their perspectives.
