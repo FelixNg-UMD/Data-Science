@@ -5,8 +5,11 @@ This repository contains three projects completed in Python using Google Colab. 
 Dataset: Survey responses from the 2023 and 2025 classes about their opinions on several questions.
 
 What I did:
+
 Pulled and cleaned the raw survey data.
+
 Conducted hypothesis testing to determine whether there were significant differences between the two classes in their perspectives.
+
 **OPEN IN GOOGLE COLLAB:** https://colab.research.google.com/github/FelixNg-UMD/Data-Science/blob/main/Project2.ipynb
 
 **PROJECT4**
